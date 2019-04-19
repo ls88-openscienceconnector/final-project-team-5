@@ -20,8 +20,9 @@ We will attempt to recreate the values that the authors themselves produced, and
 Calculation of r, the correlation coefficient 
 
 ### Deliverables:
-* Jupyter notebook with code for dataset analysis as well as MyBinder link to allow access to code
-Readme files 
+* Original and cleaned data sets in output folder of repo 
+* Google slides presentation for the project, linked in the README.md file for the output folder of repo
+
 
 
 
