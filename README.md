@@ -1,5 +1,5 @@
 # final-project-team-5
-_Adrienne Kwok, _Katherine Robak, _Masha Paley
+_Adrienne Kwok, Katherine Robak, Masha Paley
 
 [![Binder](insert binder link here)
 
