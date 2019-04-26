@@ -22,3 +22,4 @@ This repo contains a few subfolders which contain the elements of this project.
 
 Sommer, Alice J, et al. _Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston_. Nature. 2018.
 https://www.nature.com/articles/s41599-018-0188-3#Tab1
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4UZ9D4
