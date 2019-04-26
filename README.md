@@ -20,5 +20,5 @@ This repo contains a few subfolders which contain the elements of this project.
 
 ## Sources
 
-Sommer, Alice J. _Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston_. Nature. 2018.
+Sommer, Alice J, et al. _Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston_. Nature. 2018.
 https://www.nature.com/articles/s41599-018-0188-3#Tab1
