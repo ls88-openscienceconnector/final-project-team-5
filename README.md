@@ -20,8 +20,8 @@ This repo contains a few subfolders which contain the elements of this project.
 
 ## Sources
 
-Data 8 Textbook: Confidence Intervals [https://www.inferentialthinking.com/chapters/13/3/Confidence_Intervals.html]
+Data 8 Textbook: Confidence Intervals [https://www.inferentialthinking.com/chapters/13/3/Confidence_Intervals.html](https://www.inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)
 
-Sommer, Alice J., Mihye Lee, and Marie-Abèle C. Bind. "Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston." Palgrave Communications 4.1 (2018): 138. [https://www.nature.com/articles/s41599-018-0188-3#MOESM1]
+Sommer, Alice J., Mihye Lee, and Marie-Abèle C. Bind. "Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston." Palgrave Communications 4.1 (2018): 138. [https://www.nature.com/articles/s41599-018-0188-3#MOESM1](https://www.nature.com/articles/s41599-018-0188-3#MOESM1)
 
-Sommer, Alice J., Mihye Lee, and Marie-Abèle C. Bind. "Replication Data for: Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston." Harvard Dataverse (2018). [https://doi.org/10.7910/DVN/4UZ9D4doi/10.7910/DVN/4UZ9D4]
+Sommer, Alice J., Mihye Lee, and Marie-Abèle C. Bind. "Replication Data for: Comparing apples to apples: an environmental criminology analysis of the effects of heat and rain on violent crimes in Boston." Harvard Dataverse (2018). [https://doi.org/10.7910/DVN/4UZ9D4doi/10.7910/DVN/4UZ9D4](https://doi.org/10.7910/DVN/4UZ9D4doi/10.7910/DVN/4UZ9D4)
