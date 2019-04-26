@@ -11,7 +11,7 @@ This repo contains a few subfolders which contain the elements of this project.
 
 | Folder | Description |
 |-----|-----|
-| `data`  | data from the original analysis in CSV, TSV, and pip-separated format  |
+| `data`  | data from the original analysis in CSV and TSV format  |
 | `images`  | image files used in the Jupyter Notebooks  |
 | `notebooks`  | Jupyter Notebook files, including reproduction analysis using `datascience`, as well as the Pre-Analysis Plan  |
 | `output`  | output data in CSV and TSV format  |
