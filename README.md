@@ -1,5 +1,5 @@
 # final-project-team-5
-**Adrienne Kwok, Katherine Robak, Masha Paley**
+_Adrienne Kwok, Katherine Robak, Masha Paley_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project-team-5/master)
 
