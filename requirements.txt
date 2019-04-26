@@ -1,1 +1,6 @@
-
+datascience
+pandas
+numpy
+matplotlib
+IPython
+scipy
