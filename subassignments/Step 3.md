@@ -13,4 +13,4 @@ The test statistic used in the original analysis was average exposure effect. Fo
 
 Crime rates were counted for days where there was rain and days where there was no rain. Overall it was found through exploratory data visualizations that more crimes occurred on days when it rained. The average crime rate for rainy days was 230 whereas the average crime rate for non rainy days was 239. 
 
-Additionally a negative confidence interval for the AEE allowed us to reject the null hypothesis.  
+Therefore we reject the null hypothesis. 
