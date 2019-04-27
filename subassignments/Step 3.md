@@ -1,9 +1,9 @@
 
 **Hypothesis testing:**
 
-HA: The presence of precipitation decreases the daily violent crime count in Boston.
+H0 : Precipitation is not associated with the daily violent crime count in Boston.
 
-H0: Precipitation has no effect on the daily violent crime count in Boston. 
+HA : The presence of precipitation is negatively associated with the daily violent crime count in Boston.
 
 According to these hypotheses, the treatment group for our experiment includes all days when there was precipitation (i.e. PRCP > 1) and the control group includes all days when there was no precipitation (i.e. PRCP = 0).
 
